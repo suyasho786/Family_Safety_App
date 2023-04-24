@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Grocery_App</string>
+    <string name="sos">SOS</string>
+    <string name="pink_card_msg">In case of emergency keep telling family members to contact me</string>
+    <string name="guard">GUARD</string>
+    <string name="guard_msg">Open when you are on potentially dangerous journey</string>
+    <string name="security">Security</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">profile</string>
+    <string name="my_family">My Family</string>
+    <string name="open_screen">OPEN SCREEN</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
