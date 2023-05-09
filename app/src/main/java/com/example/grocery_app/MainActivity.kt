@@ -16,6 +16,10 @@ class MainActivity : AppCompatActivity() {
                 inflateFragment(GuardFragment.newInstance())
             }else if(it.itemId==R.id.nav_home){
                 inflateFragment(HomeFragment.newInstance())
+            }else if(it.itemId==R.id.nav_profile){
+                inflateFragment(ProfileFragment.newInstance())
+            }else if(it.itemId==R.id.nav_dashboard){
+                inflateFragment(DashboardFragment.newInstance())
             }
             true
         }
